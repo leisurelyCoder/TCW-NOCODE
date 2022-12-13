@@ -23,11 +23,12 @@
     display: block;
     height: 10px;
     position: absolute;
-    
-    transform:rotate( 29deg ) skew( -35deg );
+    border-radius:1px 6px 0px 0px;
+    transform:rotate( 0deg ) skew( -53deg );
     width:  20px;
     box-shadow: 2px -2px 2px 0 rgba( 178, 178, 178, .4 );
-    right: -9px; 
+    right: -6px;
+    top:0px;
 }
 </style>
 <script setup>

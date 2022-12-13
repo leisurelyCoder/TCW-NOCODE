@@ -22,10 +22,11 @@
     display: block;
     height: 16px;
     position: absolute;
- 
-    transform:             rotate( 29deg ) skew( -35deg );    
+    border-radius: 0px 0px 0px 6px;
+    transform:rotate( 43deg ) skew( -47deg );    
     width:  20px;
     box-shadow: -2px 2px 2px 0 rgba( 178, 178, 178, .4 );
-    left: -9px; 
+    left: -5px; 
+    top:-1px;
 }
 </style>
